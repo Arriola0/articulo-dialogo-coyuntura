@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.cebollita{
+    background: rgb(103,180,209);
+    background: linear-gradient(90deg, rgba(103,180,209,1) 0%, rgba(245,236,236,1) 50%, rgba(103,180,209,1) 100%);
+    padding: 10px;
+    border-radius: 3px;
+    font-size: 18px;
+}
+.pimiento{
+    background: rgb(57,92,245);
+    background: linear-gradient(180deg, rgba(57,92,245,1) 0%, rgba(245,236,236,1) 50%, rgba(241,23,23,1) 100%);
+    padding: 10px;
+    border-radius: 3px;
+    font-size: 18px;
+}
+.titulo{
+    background: rgb(103,180,209);
+    background: linear-gradient(90deg, rgba(103,180,209,1) 0%, rgba(245,236,236,1) 50%, rgba(103,180,209,1) 100%);
+    text-align: center;
+    padding: 35px 15px 35px 15px;
+}
+.padreImg{
+    width: 100%;
+    text-align: center;
+}
+.img{
+    width: auto;
+}
+
+
+
+
+
+
